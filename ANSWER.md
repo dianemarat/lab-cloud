@@ -1,6 +1,6 @@
 # 1.
 Qu'est-ce qu'une instance Virtual Machine ?
- 
+ une 
 # 2.
 Qu'est-ce qu'un VNET ? 
  
