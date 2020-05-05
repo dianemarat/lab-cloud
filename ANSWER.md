@@ -1,9 +1,9 @@
 # 1.
 Qu'est-ce qu'une instance Virtual Machine ?
-Une instance virtual machine est 
+ 
 # 2.
 Qu'est-ce qu'un VNET ? 
-Il s'agit du virtual network est un réseau physique dans le cloud, souvent utilisé par les entreprises. VNET permet de de protéger les données. 
+ 
 
 # 3.
 A quoi sert un NSG ?
